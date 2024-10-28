@@ -38,9 +38,6 @@
   text-decoration-thickness: 1px;
 }
 
-.header__logo {
-}
-
 .header__logo-image {
   width: 148px;
   height: 105px;
@@ -138,7 +135,7 @@
 
 .bet-button {
   display: inline-block;
-  font-family: Ralewey, sans-serif;
+  font-family: Ralewey;
   font-size: 22px;
   font-weight: 500;
   border: 1px solid #fff;
